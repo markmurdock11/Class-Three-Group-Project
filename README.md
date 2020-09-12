@@ -1,3 +1,4 @@
 # Class-Three-Group-Project
 
-TEST
+
+![Logo](./Images/logo.png)
